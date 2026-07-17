@@ -44,6 +44,20 @@
     .dropdown:hover .dropdown-content { display: block; }
 
     main { flex: 1; max-width: 900px; margin: 20px auto; padding: 0 20px; line-height: 1.6; }
+
+    /* Estils per al peu de pàgina de Creative Commons i Autoria */
+    footer { 
+        background: #2c3e50; 
+        color: #bdc3c7; 
+        text-align: center; 
+        padding: 20px; 
+        font-size: 0.9em; 
+        margin-top: 40px;
+        border-top: 3px solid #34495e;
+    }
+    footer a { color: #3498db; text-decoration: none; }
+    footer a:hover { text-decoration: underline; }
+    .cc-icon { vertical-align: middle; margin-right: 5px; height: 22px; }
   </style>
 </head>
 <body>
@@ -78,6 +92,17 @@
   <main>
     {{ content }}
   </main>
+
+  <footer>
+    <p>
+      <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/deed.ca" target="_blank">
+        <img alt="Llicència de Creative Commons" class="cc-icon" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc.svg" />
+      </a>
+      <br>
+      Aquesta obra està sota una <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/deed.ca" target="_blank">Llicència Creative Commons Reconeixement-NoComercial 4.0 Internacional</a>.
+    </p>
+    <p>Mantingut per <a href="https://github.com/FPari90" target="_blank">@FPari90</a> en GitHub.</p>
+  </footer>
 
 </body>
 </html>
