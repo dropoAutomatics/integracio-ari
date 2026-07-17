@@ -6,7 +6,8 @@ A continuació es detalla pas a pas el que cal fer per a començar a treballar a
 
 <details>
 <summary> <h3><b> Pas 1 - Descarregar el instal·lador de Codesys del següent enllaç</b></h3> </summary>
-Descàrrega instal·lador codesys: https://drive.google.com/drive/folders/1jW5aa9gHjvL13YgpbNXMOfVNcXd8URmZ?usp=sharing
+  
+[Descàrrega instal·lador codesys](https://drive.google.com/drive/folders/1jW5aa9gHjvL13YgpbNXMOfVNcXd8URmZ?usp=sharing)
 </details>
 
 # Pas 2
