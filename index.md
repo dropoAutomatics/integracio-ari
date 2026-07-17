@@ -11,7 +11,7 @@ Benvinguts al portal del curs.
 * **Codesys**: És un entorn de programació d'autòmats grauït molt utilitzat per marques com Schneider, Delta, etc.
 * **Machine Expert Basic**: Entorn de programació grauït desenvolupat per Schneider per als autòmats de baixes pretacions (M221).
 * **Escenes virtuari**: Una sèrie de simuladors i bessons digitals desenvolupats pel docent que valdran per a aprendre a integrar diferents processos.
-* * **[QElectroTech](https://qelectrotech.org/download.php)**: Programari de disseny elèctric de codi obert per a realitzar la documentació dels nostres projectes.
+* **[QElectroTech](https://qelectrotech.org/download.php)**: Programari de disseny elèctric de codi obert per a realitzar la documentació dels nostres projectes.
 
 
 
