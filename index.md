@@ -13,5 +13,8 @@ Benvinguts al portal del curs.
 * **Escenes virtuari**: Una sèrie de simuladors i bessons digitals desenvolupats pel docent que valdran per a aprendre a integrar diferents processos.
 * **[QElectroTech](https://qelectrotech.org/download.php)**: Programari de disseny elèctric de codi obert per a realitzar la documentació dels nostres projectes.
 
+* **Instruccions d'instal·lació**
+* [Descàrrega instal·lador codesys](https://drive.google.com/drive/folders/1jW5aa9gHjvL13YgpbNXMOfVNcXd8URmZ?usp=sharing)
+
 
 
