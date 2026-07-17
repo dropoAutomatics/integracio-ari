@@ -5,8 +5,8 @@ layout: default
 A continuació es detalla pas a pas el que cal fer per a començar a treballar amb Codesys i el simulador VirtuAri
 
 <details>
-<summary> <h3><b> Pas 1 - Descarregar el instal·lador de Codesys del següent enllaç</b></h3> </summary>
-  
+<summary>Pas 1 - Descarregar l'instal·lador de Codesys del següent enllaç</summary>
+
 [Descàrrega instal·lador codesys](https://drive.google.com/drive/folders/1jW5aa9gHjvL13YgpbNXMOfVNcXd8URmZ?usp=sharing)
 </details>
 
