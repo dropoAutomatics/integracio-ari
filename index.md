@@ -5,9 +5,9 @@ layout: default
 
 Benvinguts al portal del curs.
 
-* Enguany aprendrem a integrar totes les tecnologies del cicle mitjançant projectes d'automatització.
+Enguany aprendrem a integrar totes les tecnologies del cicle mitjançant projectes d'automatització.
 
-* El programari que s'utilitza en aquest curs és 100% gratuït:
+El programari que s'utilitza en aquest curs és 100% gratuït:
 * **Codesys**: És un entorn de programació d'autòmats grauït molt utilitzat per marques com Schneider, Delta, etc.
 * **Machine Expert Basic**: Entorn de programació grauït desenvolupat per Schneider per als autòmats de baixes pretacions (M221).
 * **Escenes virtuari**: Una sèrie de simuladors i bessons digitals desenvolupats pel docent que valdran per a aprendre a integrar diferents processos.
