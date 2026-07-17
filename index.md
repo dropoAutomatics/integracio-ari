@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Pàgina del curs Integració de Sistemes d'ARI curs 26/27
 
 Benvinguts al portal del curs. Aquí trobareu els vídeos de YouTube, els textos explicatius i els petits jocs didàctics de cada bloc.
